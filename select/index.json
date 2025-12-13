@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "SAN値直葬",
+  "base_artist": "STEAKA",
+  "createdAt": "2025-12-13T16:08:17.821481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAN値直葬 (feat. 初音ミク)",
+      "artist": "STEAKA",
+      "has_synced": false,
+      "path": "select/pl_01_SAN値直葬_(feat._初音ミク)_STEAKA.txt"
+    }
+  ]
+}
